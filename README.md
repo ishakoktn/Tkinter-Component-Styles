@@ -1,6 +1,6 @@
 # README
 
-### Blue-White-Red Button
+### 1. Blue-White-Red Button
 
 ![alt text](https://github.com/ishakoktn/Tkinter-Component-Styles/blob/master/outputs/blue-white-red.png "Blue-White-Red Button")
 
